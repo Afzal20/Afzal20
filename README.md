@@ -68,11 +68,6 @@
 ## 📊 GitHub Statistics
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; width: 100%; overflow-x: auto; padding: 20px 0;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal20&theme=radical&hide_border=false" 
-    alt="GitHub Streak" 
-    style="height: 200px; border-radius: 10px;"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact" 
     alt="Top Languages" 
     style="height: 200px; border-radius: 10px;"
