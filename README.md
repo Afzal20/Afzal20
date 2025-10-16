@@ -68,16 +68,18 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzal20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afzal20&theme=radical&hide_border=false)
-</div>
-
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; padding: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afzal20&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+    alt = "Stars"
+    style="width: 100%;"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal20&theme=radical&hide_border=false"
+    alt = "Stars"
+    style="width: 100%;"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact" 
        alt="Top Languages" 
-       style="width: 100%; max-width: 900px;"/>
+       style="width: 100%;"/>
 </div>
 
 
