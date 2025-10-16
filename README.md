@@ -72,22 +72,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afzal20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afzal20&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact)
-
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afzal20&theme=radical&no-frame=false&margin-w=8" alt="GitHub Trophies" />
+<div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; padding: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact" 
+       alt="Top Languages" 
+       style="width: 100%; max-width: 900px;"/>
 </div>
 
----
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afzal20&theme=react-dark&hide_border=true" width="100%"/>
-</div>
 ---
 
