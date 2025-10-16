@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Afzal Hossen  
-### 🚀 Django REST Framework Backend Developer | Full Stack Engineer  
+### Django REST Framework Backend Developer | Full Stack Engineer  
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&height=50&lines=Open+Source+Contributor;Django+REST+Framework+Developer;Backend+Expert" alt="Professional Roles Animation" />
@@ -25,39 +25,38 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Working on **scalable microservices architectures**
-- 🌱 Learning **Cloud Computing (AWS/GCP)** and **DevOps**
-- 👯 Collaborating on **Django REST Framework & FastAPI** projects
-- 💬 Ask me about **API development, authentication systems, and database design**
-- 📫 Reach me at: **afzal.hossen@example.com**
-- ⚡ Fun fact: I debug code faster with coffee ☕  
-
+-  Working on **scalable microservices architectures**
+- Learning **Cloud Computing (AWS/GCP)** and **DevOps**
+- Collaborating on **Django REST Framework & FastAPI** projects
+- Ask me about **API development, authentication systems, and database design**
+- Reach me at: **afzalhossen2019@gmail.com**
+  
 <br clear="both">
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🚀 Backend
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### ☁️ Databases & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -65,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; width: 100%; overflow-x: auto; padding: 20px 0;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact" 
