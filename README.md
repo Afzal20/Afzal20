@@ -2,7 +2,7 @@
 ### 🚀 Django REST Framework Backend Developer | Full Stack Engineer  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+REST+Framework+Expert;Backend+Architecture+Enthusiast;API+Development+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&height=50&lines=Open+Source+Contributor;Django+REST+Framework+Developer;Backend+Expert" alt="Professional Roles Animation" />
 </div>
 
 <p align="center">
@@ -47,7 +47,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
