@@ -5,13 +5,13 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1763596800&v=beta&t=Bp4wci9iBerXW7I-8lettyLjcLMNB3U-sBw90u5QTMc" alt="Banner" width="800" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+REST+Framework+Expert;Backend+Architecture+Enthusiast;API+Development+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
 <p align="center">
   Passionate <strong>Full Stack Developer</strong> specializing in scalable web applications and solving real-world problems through clean, efficient code. I transform ideas into robust digital solutions with a focus on backend architecture and API development.
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+REST+Framework+Expert;Backend+Architecture+Enthusiast;API+Development+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 <div align="center">
   
