@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1770854400&v=beta&t=KOdy2RFWKtDCuahk9Sh5RkiTXXrZkCfm95Nf05lsKW0" alt="Banner" width="800" />
+  <img src="[https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1770854400&v=beta&t=KOdy2RFWKtDCuahk9Sh5RkiTXXrZkCfm95Nf05lsKW0](https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1788998400&v=beta&t=dghOQtq__Wr6mqGInY00TIlfyXxxiCadVp_HLCVnrdE)" alt="Banner" width="800" />
 </p>
 
 <p align="center">
