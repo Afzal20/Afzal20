@@ -1,80 +1,144 @@
-# Hi there 👋, I'm Afzal Hossen  
-### Django REST Framework Backend Developer | Full Stack Engineer  
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1788998400&v=beta&t=dghOQtq__Wr6mqGInY00TIlfyXxxiCadVp_HLCVnrdE" alt="SYSTEM_BANNER" width="900"/>
+</p>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&height=50&lines=Open+Source+Contributor;Django+REST+Framework+Developer;Backend+Expert" alt="Professional Roles Animation" />
-</div>
+```text
+    _    _____ _____   _    _       _   _  ___  ____ ____  _____ _   _
+   / \  |  ___|__  /  / \  | |     | | | |/ _ \/ ___/ ___|| ____| \ | |
+  / _ \ | |_    / /  / _ \ | |     | |_| | | | \___ \___ \|  _| |  \| |
+ / ___ \|  _|  / /_ / ___ \| |___  |  _  | |_| |___) |__) | |___| |\  |
+/_/   \_\_|   /____/_/   \_\_____| |_| |_|\___/|____/____/|_____|_| \_|
+```
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1770854400&v=beta&t=KOdy2RFWKtDCuahk9Sh5RkiTXXrZkCfm95Nf05lsKW0](https://media.licdn.com/dms/image/v2/D4E16AQFKTVf16deRyA/profile-displaybackgroundimage-shrink_350_1400/B4EZeqqUo2HYAg-/0/1750914912259?e=1788998400&v=beta&t=dghOQtq__Wr6mqGInY00TIlfyXxxiCadVp_HLCVnrdE)" alt="Banner" width="800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=640&height=40&lines=Django+REST+Framework+Engineer;Full+Stack+Architect;API+Systems+Specialist;Open+Source+Contributor" alt="SYSTEM_ROLES" />
 </p>
 
 <p align="center">
-  Passionate <strong>Full Stack Developer</strong> specializing in scalable web applications and solving real-world problems through clean, efficient code. I transform ideas into robust digital solutions with a focus on backend architecture and API development.
+  <a href="https://www.linkedin.com/in/afzal-hossen/">
+    <img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://github.com/Afzal20">
+    <img src="https://img.shields.io/badge/WEBSITE-7B2FFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AfzalHosse16799">
+    <img src="https://img.shields.io/badge/X_@AFZALHOSSE16799-FF00E5?style=for-the-badge&logo=twitter&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/afzalhossen2019/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FF3B6B?style=for-the-badge&logo=instagram&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9F?style=for-the-badge" />
 </p>
 
+---
 
-<div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afzal-hossen/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Afzal20)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AfzalHosse16799)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/afzalhossen2019/)
+## `$ system.profile`
 
-</div>
+```text
+[ INCOMING TRANSMISSION ]
+> Full Stack Developer specialized in scalable web applications
+> and robust backend architecture. Building digital solutions
+> that survive production.
+```
+
+| SECTOR | STATUS |
+| --- | --- |
+| **Current Mission** | Scalable microservice architectures |
+| **Learning Module** | Cloud Computing (AWS/GCP) + DevOps |
+| **Active Projects** | Django REST Framework & FastAPI |
+| **Knowledge Drop** | API design, auth systems, database architecture |
+| **Comm Channel** | `afzalhossen2019@gmail.com` |
 
 ---
 
-## About Me  
+## `$ deploy.modules --list`
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### Backend Core
+![Python](https://img.shields.io/badge/PYTHON-00F5FF?style=for-the-badge&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=00F5FF)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
 
--  Working on **scalable microservices architectures**
-- Learning **Cloud Computing (AWS/GCP)** and **DevOps**
-- Collaborating on **Django REST Framework & FastAPI** projects
-- Ask me about **API development, authentication systems, and database design**
-- Reach me at: **afzalhossen2019@gmail.com**
-  
-<br clear="both">
+### Frontend Layer
+![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=black)
 
-## Tech Stack & Tools
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Utility Loadout
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## GitHub Statistics
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; width: 100%; overflow-x: auto; padding: 20px 0;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal20&theme=radical&hide_border=false&layout=compact" 
-    alt="Top Languages" 
-    style="height: 200px; border-radius: 10px;"
-  />
-</div>
+## `$ tree /ui --depth=5`
 
-
-
+```text
+fullstack-hub/
+├── apps/
+│   ├── web/                             # Next.js 14 — App Router
+│   │   ├── app/
+│   │   │   ├── (auth)/
+│   │   │   │   ├── login/page.tsx
+│   │   │   │   └── register/page.tsx
+│   │   │   ├── (dashboard)/
+│   │   │   │   ├── overview/page.tsx
+│   │   │   │   └── settings/page.tsx
+│   │   │   ├── api/
+│   │   │   │   ├── auth/route.ts
+│   │   │   │   └── data/route.ts
+│   │   │   └── layout.tsx
+│   │   ├── components/
+│   │   │   ├── ui/                      # design-system primitives
+│   │   │   │   ├── button.tsx
+│   │   │   │   ├── card.tsx
+│   │   │   │   └── modal.tsx
+│   │   │   ├── forms/
+│   │   │   └── layouts/
+│   │   ├── lib/
+│   │   │   ├── supabase/client.ts
+│   │   │   └── supabase/server.ts
+│   │   └── styles/
+│   ├── mobile/                          # Flutter 3.x — clean architecture
+│   │   ├── lib/
+│   │   │   ├── core/
+│   │   │   │   ├── theme/               # design tokens, dark/light modes
+│   │   │   │   ├── network/
+│   │   │   │   └── utils/
+│   │   │   ├── features/
+│   │   │   │   ├── auth/
+│   │   │   │   │   ├── data/repositories/
+│   │   │   │   │   ├── domain/entities/
+│   │   │   │   │   └── presentation/screens/
+│   │   │   │   ├── home/
+│   │   │   │   └── profile/
+│   │   │   └── main.dart
+│   │   └── pubspec.yaml
+│   └── api/                             # Django REST Framework
+│       ├── apps/
+│       │   ├── users/
+│       │   └── core/
+│       ├── config/
+│       └── requirements.txt
+├── supabase/                            # auth + realtime + storage
+│   ├── migrations/
+│   ├── functions/
+│   └── seed.sql
+├── packages/
+│   └── shared/                          # shared types & API contracts
+├── docker-compose.yml
+└── README.md
+```
 
 ---
 
+## `$ telemetry --stats`
+```text
+▲ SIGNAL TERMINATED — AWAITING NEXT DEPLOYMENT
+```
